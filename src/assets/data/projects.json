@@ -1,0 +1,33 @@
+
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "The project title",
+        "description": "I’m a full-stack developer specializing in building (and occasionally designing) exceptional.",
+        "image": "project1.jpeg",
+        "githubLink": "https://www.github.com",
+        "liveLink": "https://www.github.com",
+        "techStacks": ["React", "NodeJS", "MongoDb", "ExpressJS"]
+      },
+      {
+        "id": 2,
+        "title": "The project title 2",
+        "description": "I’m a full-stack developer specializing in building (and occasionally designing) exceptional.",
+        "image": "project1.jpeg",
+        "githubLink": "https://www.github.com",
+        "liveLink": "https://www.github.com",
+        "techStacks": ["React", "NodeJS", "MongoDb", "ExpressJS"]
+      },
+      {
+        "id": 2,
+        "title": "The project title 2",
+        "description": "I’m a full-stack developer specializing in building (and occasionally designing) exceptional.",
+        "image": "project1.jpeg",
+        "githubLink": "https://www.github.com",
+        "liveLink": "https://www.github.com",
+        "techStacks": ["React", "NodeJS", "MongoDb", "ExpressJS"]
+      }
+    ]
+  }
+   
