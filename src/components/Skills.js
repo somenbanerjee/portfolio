@@ -59,7 +59,7 @@ function Skills() {
   ];
 
   return (
-    <div name="skills" className="w-full py-40 dark:bg-black">
+    <div name="skills" className="w-full py-28 dark:bg-black">
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <h1 className="text-4xl sm:text-6xl font-bold text-black dark:text-white">
           Skills.

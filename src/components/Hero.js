@@ -12,7 +12,7 @@ function Hero() {
       viewport={{ once: false, amount: 0.5 }}
       transition={{ staggerChildren: 0.5 }}
       name="about"
-      className="w-full py-40  dark:bg-black relative"
+      className="w-full py-28 dark:bg-black relative"
     >
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <motion.img

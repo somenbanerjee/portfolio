@@ -11,7 +11,7 @@ function Contacts() {
       viewport={{ once: false, amount: 0.5 }}
       transition={{ staggerChildren: 0.5 }}
       name="contacts"
-      className="w-full py-40 dark:bg-black"
+      className="w-full py-28 dark:bg-black"
     >
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <h1 className="text-4xl sm:text-6xl font-bold text-black dark:text-white">
