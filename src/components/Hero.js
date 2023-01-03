@@ -1,9 +1,8 @@
 import React from "react";
 import { AiOutlineDownload } from "react-icons/ai";
 import me from "../assets/me.jpeg";
-import kid from "../assets/kid.png";
 import { motion } from "framer-motion";
-import { variantHeroImage, variantKidImage } from "../Utils/animations";
+import { variantHeroImage } from "../Utils/animations";
 function Hero() {
   return (
     <motion.div
