@@ -7,16 +7,6 @@ const variantHeroImage = {
   },
 };
 
-const variantKidImage = {
-  offscreen: { x: "200vw", scale: 0.2 },
-  onscreen: {
-    x: 0,
-    scale: 1,
-    rotate: [150, 40, 30, 20, 10, 0, -10, -20, -30, -50, 0],
-    transition: { type: "spring", bounce: 0, duration: 0.5 },
-  },
-};
-
 const variantSkills = {
   offscreen: { x: -100, opacity: 0 },
   onscreen: {
