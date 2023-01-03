@@ -42,7 +42,7 @@ function Hero() {
         <div className="flex flex-row justify-start">
           <button className="text-black dark:text-white shadow-primary dark:shadow-primary-dark group border-2 border-black dark:border-white px-6 py-3 my-2 flex items-center">
             Resume
-            <span className="group-hover:animate-bounce duration-500">
+            <span>
               <AiOutlineDownload className="ml-3 text-lg" />
             </span>
           </button>
