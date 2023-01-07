@@ -3,7 +3,7 @@
     "products": [
       {
         "id": 1,
-        "title": "The project title",
+        "title": "The project title 1",
         "description": "I’m a full-stack developer specializing in building (and occasionally designing) exceptional.",
         "image": "project1.jpeg",
         "githubLink": "https://www.github.com",
@@ -20,8 +20,8 @@
         "techStacks": ["React", "NodeJS", "MongoDb", "ExpressJS"]
       },
       {
-        "id": 2,
-        "title": "The project title 2",
+        "id": 3,
+        "title": "The project title 3",
         "description": "I’m a full-stack developer specializing in building (and occasionally designing) exceptional.",
         "image": "project1.jpeg",
         "githubLink": "https://www.github.com",
