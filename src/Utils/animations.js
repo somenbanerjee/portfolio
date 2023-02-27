@@ -54,6 +54,8 @@ const variantContactsBottom = {
   },
 };
 
+const variantKidImage = {};
+
 export {
   variantHeroImage,
   variantSkills,
